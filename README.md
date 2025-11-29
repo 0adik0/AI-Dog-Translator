@@ -6,8 +6,8 @@
 ![Banner](Docs/banner.png)
 
 [![iOS 16.0+](https://img.shields.io/badge/iOS-16.0%2B-000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/ios/)
-[![Swift 5.9](https://img.shields.io/badge/Swift-5.9-F05138.svg?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-3.0-007AFF.svg?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+[![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF.svg?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
 [![Xcode 15](https://img.shields.io/badge/Xcode-15-1575F9.svg?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
 
 [![Live Activities](https://img.shields.io/badge/Live%20Activities-Dynamic%20Island-7D55C7.svg?style=for-the-badge&logo=activity&logoColor=white)](https://developer.apple.com/documentation/activitykit)
@@ -26,7 +26,7 @@
 
 ## 💡 Project Overview
 
-**AI Dog Translator & Walk** is a cutting-edge iOS application that redefines pet interaction. By fusing **Generative AI**, **Signal Processing**, and **Real-time Geolocation**, it offers a comprehensive suite of tools for the modern dog owner.
+**AI Dog Translator & Walk** is a comprehensive iOS application for dog lovers. It combines fun AI-powered features with practical utilities. Translate your dog's barks, track your daily walks with live statistics, and manage your pet's profile — all in one modern, beautifully designed app.
 
 Built with a relentless focus on **Clean Architecture** and **Scalability**, this project serves as a benchmark for modern iOS development practices, utilizing the full power of the Apple ecosystem.
 
@@ -119,7 +119,7 @@ Dog Translator/
 
 ## 💡 Обзор Проекта
 
-**AI Dog Translator & Walk** — это флагманское iOS приложение, объединяющее развлечение и утилиты для владельцев собак. Проект демонстрирует использование передовых технологий: **Generative AI**, **Signal Processing** и **Real-time Geolocation**.
+**AI Dog Translator & Walk** — это многофункциональное iOS приложение для любителей собак. Оно сочетает в себе развлекательные AI-функции и полезные утилиты. Переводите лай вашей собаки, отслеживайте маршруты прогулок с живой статистикой и ведите профиль питомца — всё это в одном современном и удобном приложении.
 
 Разработано с применением принципов **Clean Architecture**, что делает кодовую базу масштабируемой, тестируемой и легкой в поддержке.
 

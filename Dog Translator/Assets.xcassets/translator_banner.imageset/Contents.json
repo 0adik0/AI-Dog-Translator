@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "freepik_br_2ddfeb2a-7e04-4ece-b228-bf88cbdfc4ea.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,4 +1,5 @@
 # 🐾 AI Dog Translator & Walk
+<a id="english"></a>
 
 <div align="center">
 
@@ -17,7 +18,7 @@
 
 <br>
 
-**[🇷🇺 Читать на русском](#-ai-переводчик-для-собак--прогулки-1)**
+**[Читать на русском](#russian)**
 
 </div>
 
@@ -106,10 +107,11 @@ Dog Translator/
 <br>
 
 # 🐾 AI Переводчик для Собак & Прогулки
+<a id="russian"></a>
 
 <div align="center">
 
-**[🇺🇸 Read in English](#-ai-dog-translator--walk)**
+**[Read in English](#english)**
 
 </div>
 

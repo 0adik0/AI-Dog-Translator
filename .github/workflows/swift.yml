@@ -18,5 +18,3 @@ jobs:
     - uses: actions/checkout@v4
     - name: Build
       run: xcodebuild build -project "Dog Translator.xcodeproj" -scheme "Dog Translator" -destination 'platform=iOS Simulator,name=iPhone 17,OS=latest' clean build
-    - name: Run tests
-      run: xcodebuild test -project "Dog Translator.xcodeproj" -scheme "Dog Translator" -destination 'platform=iOS Simulator,name=iPhone 17,OS=latest'

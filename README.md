@@ -8,7 +8,7 @@
 [![iOS 16.0+](https://img.shields.io/badge/iOS-16.0%2B-000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/ios/)
 [![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF.svg?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
-[![Xcode 15](https://img.shields.io/badge/Xcode-15-1575F9.svg?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![Xcode](https://img.shields.io/badge/Xcode-1575F9.svg?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
 
 [![Live Activities](https://img.shields.io/badge/Live%20Activities-Dynamic%20Island-7D55C7.svg?style=for-the-badge&logo=activity&logoColor=white)](https://developer.apple.com/documentation/activitykit)
 [![MapKit](https://img.shields.io/badge/MapKit-Location-34C759.svg?style=for-the-badge&logo=apple-maps&logoColor=white)](https://developer.apple.com/documentation/mapkit)
